@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/02.jpg</file>
+        <file>images/Genshin Impact.png</file>
+        <file>images/Eula.png</file>
+        <file>images/shahe.png</file>
+        <file>images/xitucheng.png</file>
+        <file>images/3.png</file>
+        <file>images/bg.png</file>
+    </qresource>
+</RCC>

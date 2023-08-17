@@ -1,0 +1,453 @@
+2022-2-28-0-0-0    User: 2    content: 登陆成功
+2022-2-28-1-11-10    User: 2    content: 
+2022-2-28-1-59-30    User: 2    content: 
+2022-2-28-4-18-20    User: 2    content: 
+2022-2-28-4-18-30    User: 2    content: 打开程序时进行回档操作
+2022-3-1-13-53-40    User: 2    content: 添加闹钟：
+insert into 2_clock(name, year, month, day, hour)values('',2000,1,1,)
+2022-3-1-22-40-40    User: 2    content: 登陆成功
+2022-3-4-19-8-20    User: 2    content: 
+2022-3-4-19-8-20    User: 4    content: 登陆成功
+2022-3-4-19-25-0    User: 4    content: 
+2022-3-5-3-28-0    User: 2    content: 登陆成功
+2022-3-5-3-37-10    User: 2    content: 
+2022-3-6-22-58-30    User: 4    content: 登陆成功
+2022-4-1-9-0-40    User: 4    content: 
+2022-4-1-9-43-40    User: 4    content: 
+2022-4-1-9-43-50    User: 4    content: 登陆成功
+2022-4-1-15-0-20    User: 4    content: 
+2022-4-3-23-19-40    User: 2    content: 登陆成功
+2022-4-4-9-2-0    User: 2    content: 
+2022-4-4-9-2-0    User: 2    content: 提交作业：2_课程设计验收
+2022-4-4-9-2-0    User: 2    content: 提交作业：2_验收实验报告
+2022-4-4-9-2-0    User: 4    content: 登陆成功
+2022-4-4-9-28-40    User: 4    content: 
+2022-4-11-21-8-40    User: 2    content: 登陆成功
+2022-4-11-21-16-50    User: 2    content: 
+2022-4-11-21-13-40    User: 2    content: 
+2022-4-11-21-13-50    User: 2    content: 打开程序时进行回档操作
+2022-4-11-21-43-30    User: 4    content: 登陆成功
+2022-4-11-21-50-20    User: 4    content: 
+2022-4-12-10-19-40    User: 4    content: 
+2022-4-12-10-19-50    User: 4    content: 登陆成功
+2022-4-12-10-34-50    User: 4    content: 登陆成功
+2022-4-16-10-30-40    User: 4    content: 登陆成功
+2022-4-16-11-8-10    User: 4    content: 打开程序时进行回档操作
+2022-4-16-11-31-50    User: 4    content: 
+2022-4-21-14-59-40    User: 2    content: 登陆成功
+2022-4-21-15-5-40    User: 2    content: 
+2022-4-21-20-33-30    User: 2    content: 删除课程：
+数字逻辑课程设计
+2022-4-21-14-59-40    User: 4    content: 登陆成功
+2022-4-21-18-57-10    User: 4    content: 西土城-Time: 1.00 min
+19 -> 18 -> 33 -> 40 -> 41
+沙河-Time: 11.60 min
+1 -> 3 -> 4 -> 5 -> 28 -> 27 -> 67 -> 105 -> 71 -> 72 -> 84
+2022-4-21-21-47-50    User: 4    content: find path for 数据结构
+2022-4-21-22-40-20    User: 4    content: find path for 数据结构
+2022-4-21-22-44-50    User: 4    content: 导航课程：数据结构
+沙河-Time: 5.00 min
+38 -> 27 -> 28 -> 5 -> 4 -> 3 -> 1
+乘坐班车：11h
+西土城-Time: 5.00 min
+41 -> 40 -> 33 -> 34 -> 35 -> 36
+2022-4-22-1-17-40    User: 4    content: 
+2022-4-22-3-23-40    User: 4    content: 
+2022-4-22-8-15-30    User: 4    content: 添加必修课：
+insert into lesson_compulsory(number, name, teacher, isShaHe, location, dayOfWeek, c_index, qun, extra, class) values(10,'课程test',4,0,45,2,2,'233','201','2020211303')
+2022-4-22-9-21-50    User: 4    content: 添加选修课：
+insert into lesson_select(number, name, teacher, isShaHe, location, dayOfWeek, c_index, qun) values(7,'课程test',4,0,49,2,3,'233'','201')
+2022-4-22-9-51-40    User: 4    content: 
+2022-4-23-16-43-20    User: 4    content: 添加选修课：
+insert into lesson_select(number, name, teacher, isShaHe, location, dayOfWeek, c_index, qun) values(7,'test',4,1,3,3,0,'233'','203')
+2022-4-26-10-22-0    User: 2    content: 登陆成功
+2022-4-26-12-43-0    User: 2    content: find path for 数据结构课程设计
+2022-4-26-12-43-0    User: 2    content: find path for 数据结构课程设计
+2022-4-26-12-43-0    User: 2    content: 导航课程：数据结构课程设计
+沙河-Distanece: 566.00 m
+21 -> 16 -> 17 -> 61 -> 62 -> 69 -> 63 -> 68 -> 74 -> 73 -> 94
+2022-4-26-12-43-0    User: 2    content: 
+2022-4-26-12-43-0    User: 2    content: find path for 数据结构课程设计
+2022-4-26-12-43-0    User: 2    content: 导航课程：数据结构课程设计
+西土城-Time: 1.00 min
+22 -> 21 -> 7 -> 8 -> 11 -> 14 -> 17 -> 16 -> 19 -> 18 -> 33 -> 40 -> 41
+乘坐班车：8h
+沙河-Time: 6.81 min
+1 -> 3 -> 4 -> 5 -> 28 -> 27 -> 67 -> 73 -> 94
+2022-4-26-12-43-0    User: 2    content: find path for 毛概
+2022-4-26-12-43-0    User: 2    content: 导航课程：毛概
+西土城-Time: 1.00 min
+22 -> 21 -> 7 -> 8 -> 11 -> 14 -> 17 -> 16 -> 19 -> 18 -> 33 -> 40 -> 41
+乘坐公交：6:53.1884 之前上车
+沙河-Time: 6.81 min
+1 -> 3 -> 4 -> 5 -> 28 -> 27 -> 67 -> 73 -> 94
+2022-4-26-12-43-0    User: 2    content: 
+2022-4-26-12-43-0    User: 2    content: 沙河-Time: 4.14 min
+20 -> 19 -> 30 -> 18 -> 60 -> 63 -> 66 -> 70 -> 105 -> 89 -> 100
+2022-4-26-10-22-0    User: 4    content: 登陆成功
+2022-4-26-13-6-50    User: 4    content: find path for 数据结构
+2022-4-26-14-3-30    User: 4    content: find path for 数据结构
+2022-4-26-14-6-30    User: 4    content: 导航课程：数据结构
+沙河-Distanece: 545.00 m
+18 -> 30 -> 19 -> 31 -> 36 -> 37 -> 32 -> 6 -> 5 -> 4 -> 3 -> 1
+乘坐班车：11h
+西土城-Distanece: 535.00 m
+41 -> 40 -> 42 -> 39 -> 38 -> 37
+2022-4-26-18-33-40    User: 4    content: 沙河-Time: 3.66 min
+30 -> 18 -> 60 -> 63 -> 68 -> 72 -> 84 -> 89 -> 100
+2022-4-26-20-29-10    User: 4    content: 沙河-Time: 3.66 min
+30 -> 18 -> 60 -> 63 -> 68 -> 72 -> 84 -> 89 -> 100
+沙河-Time: 1.00 min
+100 -> 102 -> 103 -> 92 -> 91 -> 98 -> 96 -> 78 -> 81 -> 80 -> 82 -> 83 -> 41 -> 40 -> 79 -> 39 -> 77 -> 38 -> 27 -> 65 -> 26 -> 64 -> 18 -> 60 -> 63 -> 68
+2022-4-27-2-13-50    User: 4    content: 登陆成功
+2022-4-27-4-17-20    User: 4    content: find path for 数据结构
+2022-4-27-5-24-40    User: 4    content: find path for 数据结构
+2022-4-27-5-27-30    User: 4    content: 导航课程：数据结构
+沙河-Distanece: 415.00 m
+27 -> 28 -> 5 -> 4 -> 3 -> 1
+乘坐班车：11h
+西土城-Distanece: 535.00 m
+41 -> 40 -> 42 -> 39 -> 38 -> 37
+2022-4-27-9-42-30    User: 4    content: 沙河-Time: 1.00 min
+30 -> 19 -> 20 -> 6 -> 5 -> 4 -> 3 -> 1
+西土城-Time: 1.00 min
+41 -> 40 -> 33 -> 18 -> 19 -> 16
+2022-4-27-11-18-50    User: 4    content: 沙河-Time: 1.00 min
+30 -> 19 -> 20 -> 6 -> 5 -> 4 -> 3 -> 1
+西土城-Time: 1.00 min
+41 -> 40 -> 33 -> 18 -> 19 -> 16
+西土城-Time: 1.00 min
+16 -> 13 -> 10 -> 5 -> 8 -> 7 -> 21 -> 23 -> 26 -> 27 -> 30 -> 35 -> 36 -> 37 -> 48 -> 46
+2022-4-27-16-12-10    User: 4    content: 登陆成功
+2022-4-27-18-37-10    User: 4    content: find path for 数据结构
+2022-4-27-19-51-40    User: 4    content: find path for 数据结构
+2022-4-27-19-54-20    User: 4    content: 导航课程：数据结构
+沙河-Distanece: 566.00 m
+21 -> 23 -> 20 -> 6 -> 5 -> 4 -> 3 -> 1
+乘坐班车：11h
+西土城-Distanece: 535.00 m
+41 -> 40 -> 42 -> 39 -> 38 -> 37
+2022-4-28-2-41-30    User: 4    content: find path for 数据结构
+2022-4-28-2-44-40    User: 4    content: 导航课程：数据结构
+西土城-Time: 0.00 min
+13 -> 10 -> 5 -> 8 -> 7 -> 21 -> 23 -> 26 -> 27 -> 30 -> 35 -> 36
+2022-4-28-3-34-20    User: 4    content: find path for 数据结构
+2022-4-28-4-37-20    User: 4    content: 沙河-Time: 1.00 min
+29 -> 28 -> 5 -> 4 -> 3 -> 1
+乘坐班车：11h
+西土城-Time: 1.00 min
+41 -> 40 -> 33 -> 18 -> 19 -> 16 -> 13 -> 10 -> 5 -> 8 -> 7 -> 21 -> 23 -> 26 -> 27 -> 30 -> 35 -> 36
+2022-4-28-12-23-20    User: 4    content: 登陆成功
+2022-4-28-14-33-40    User: 4    content: find path for 数据结构
+2022-4-28-15-54-20    User: 4    content: find path for 数据结构
+2022-4-28-15-57-10    User: 4    content: 导航课程：数据结构
+沙河-Distanece: 426.00 m
+20 -> 6 -> 5 -> 4 -> 3 -> 1
+乘坐班车：11h
+西土城-Distanece: 535.00 m
+41 -> 40 -> 42 -> 39 -> 38 -> 37
+2022-4-28-20-8-30    User: 4    content: find path for 数据结构
+2022-4-28-20-27-50    User: 4    content: find path for 数据结构
+2022-4-28-20-30-40    User: 4    content: 导航课程：数据结构
+沙河-Distanece: 545.00 m
+18 -> 30 -> 19 -> 31 -> 36 -> 37 -> 32 -> 6 -> 5 -> 4 -> 3 -> 1
+乘坐班车：11h
+西土城-Distanece: 535.00 m
+41 -> 40 -> 42 -> 39 -> 38 -> 37
+2022-4-29-1-13-0    User: 4    content: 西土城-Time: 2.00 min
+48 -> 46 -> 43 -> 39 -> 42 -> 40 -> 41
+沙河-Time: 6.09 min
+1 -> 3 -> 4 -> 5 -> 28 -> 27 -> 67 -> 105 -> 71 -> 72 -> 84
+2022-4-29-4-53-10    User: 4    content: 西土城-Time: 2.00 min
+48 -> 46 -> 43 -> 39 -> 42 -> 40 -> 41
+沙河-Time: 6.09 min
+1 -> 3 -> 4 -> 5 -> 28 -> 27 -> 67 -> 105 -> 71 -> 72 -> 84
+沙河-Time: 0.00 min
+84 -> 72 -> 68 -> 63 -> 60
+2022-4-29-7-17-40    User: 4    content: 西土城-Time: 2.00 min
+48 -> 46 -> 43 -> 39 -> 42 -> 40 -> 41
+沙河-Time: 6.09 min
+1 -> 3 -> 4 -> 5 -> 28 -> 27 -> 67 -> 105 -> 71 -> 72 -> 84
+沙河-Time: 0.00 min
+84 -> 72 -> 68 -> 63 -> 60
+沙河-Time: 2.95 min
+60 -> 63 -> 68 -> 74 -> 73 -> 94 -> 95
+2022-4-29-8-36-50    User: 4    content: 
+2022-4-29-10-41-20    User: 4    content: 
+2022-4-29-15-12-40    User: 4    content: 添加选修课：
+insert into lesson_select(number, name, teacher, isShaHe, location, dayOfWeek, c_index, qun, extra) values(7,'test_xuanxiu',4,1,19,1,1,'2344','101')
+2022-4-29-19-32-40    User: 4    content: 修改课程：test_xuanxiu1-1 选修
+2022-4-30-0-48-0    User: 4    content: 添加课程作业：insert into lesson_task(number, lesson_number, isSelect, name, year, month, day, hour, all_number, commit_number) values(9,1,1,'6.11前提交文档',2022,6,11,23,-1,0)
+2022-4-30-1-15-10    User: 4    content: 
+2022-2-28-0-0-0    User: 2    content: 登陆成功
+2022-2-28-1-19-50    User: 2    content: find path for 形式语言与自动机
+2022-2-28-1-19-50    User: 2    content: find path for 形式语言与自动机
+2022-2-28-1-19-50    User: 2    content: 导航课程：形式语言与自动机
+沙河-Distanece: 625.60 m
+12 -> 13 -> 6 -> 32 -> 37 -> 33 -> 29 -> 28 -> 27 -> 67 -> 73 -> 94
+2022-2-28-1-35-50    User: 2    content: 登陆成功
+2022-2-28-2-41-10    User: 2    content: 
+2022-2-28-4-2-50    User: 2    content: 提交作业：2_6.11前提交文档
+2022-2-28-8-59-30    User: 2    content: 
+2022-2-28-9-27-20    User: 2    content: 删除课程：
+数字逻辑课程设计
+2022-2-28-11-0-30    User: 2    content: 添加课程：
+insert into 2_select(number, name, teacher, isShaHe, location, dayOfWeek, c_index, qun) values(5,'数字逻辑课程设计',9,1,26,4,4,'？')
+2022-2-28-11-26-40    User: 2    content: 数字
+2022-2-28-13-41-50    User: 2    content: 个人活动查询
+2022-2-28-14-26-0    User: 2    content: 查询字段筛选
+2022-2-28-14-55-50    User: 2    content: 查询字段筛选
+2022-2-28-15-15-30    User: 2    content: 个人活动查询
+2022-2-28-15-48-0    User: 2    content: 查询字段筛选
+2022-2-28-16-11-40    User: 2    content: 集体活动查询
+2022-2-28-17-6-0    User: 2    content: 集体活动查询
+2022-2-28-18-56-50    User: 2    content: 集体活动查询
+2022-2-28-19-3-30    User: 2    content: 查询字段筛选
+2022-2-28-19-17-10    User: 2    content: 个人活动查询
+2022-2-28-20-10-10    User: 2    content: 个人活动查询
+2022-2-28-20-21-0    User: 2    content: 集体活动查询
+2022-3-1-0-56-10    User: 2    content: 个人活动查询
+2022-3-1-1-28-50    User: 2    content: 个人活动查询
+2022-3-1-2-0-50    User: 2    content: 个人活动查询
+2022-3-1-2-36-40    User: 4    content: 登陆成功
+2022-6-1-21-49-30    User: 4    content: 登陆成功
+2022-6-11-0-45-50    User: 4    content: 登陆成功
+2022-6-11-1-17-30    User: 4    content: 登陆成功
+2022-6-11-1-24-40    User: 4    content: 登陆成功
+2022-2-28-0-0-0    User: 4    content: 登陆成功
+2022-2-28-0-37-0    User: 4    content: 登陆成功
+2022-2-28-0-44-0    User: 4    content: 登陆成功
+2022-4-30-0-53-30    User: 4    content: 登陆成功
+2022-2-28-0-0-0    User: 4    content: 登陆成功
+2022-2-28-3-14-0    User: 4    content: 登陆成功
+2022-2-28-3-23-20    User: 2    content: 登陆成功
+2022-3-2-18-17-50    User: 2    content: 沙河-Distanece: 36.00 m
+10 -> 9 -> 1
+西土城-Distanece: 471.00 m
+41 -> 40 -> 33 -> 18 -> 15 -> 12 -> 6 -> 5
+2022-2-28-3-26-20    User: 2    content: 打开程序时进行回档操作
+2022-2-28-8-33-10    User: 2    content: 沙河-Distanece: 424.00 m
+33 -> 37 -> 32 -> 6 -> 5 -> 4 -> 3 -> 1
+西土城-Distanece: 488.00 m
+41 -> 40 -> 33 -> 18 -> 15 -> 16 -> 17
+2022-2-28-11-17-40    User: 2    content: 沙河-Distanece: -1.00 m
+90
+西土城-Distanece: 666.00 m
+41 -> 40 -> 33 -> 18 -> 15 -> 16 -> 17 -> 27
+2022-2-28-13-53-50    User: 2    content: 沙河-Distanece: 378.00 m
+97 -> 94 -> 73 -> 74 -> 68
+2022-2-28-17-32-20    User: 2    content: 沙河-Distanece: 893.00 m
+25 -> 21 -> 16 -> 17 -> 61 -> 62 -> 69 -> 63 -> 68 -> 72 -> 84 -> 89 -> 100 -> 102
+2022-2-28-19-25-10    User: 2    content: 沙河-Distanece: 335.40 m
+85 -> 94 -> 97 -> 100 -> 102
+2022-2-28-22-16-50    User: 2    content: 沙河-Distanece: 667.00 m
+45 -> 46 -> 56 -> 39 -> 79 -> 80 -> 81 -> 92 -> 103
+2022-3-1-2-50-50    User: 2    content: 沙河-Distanece: 918.10 m
+45 -> 46 -> 56 -> 39 -> 77 -> 38 -> 27 -> 67 -> 105 -> 66 -> 63 -> 68 -> 74 -> 86 -> 87
+2022-3-1-10-55-50    User: 2    content: 沙河-Distanece: 813.00 m
+96 -> 85 -> 94 -> 73 -> 67 -> 27 -> 28 -> 5 -> 4 -> 3 -> 1
+西土城-Distanece: 448.80 m
+41 -> 40 -> 42 -> 39 -> 38
+2022-3-1-16-3-40    User: 2    content: 西土城-Distanece: 211.00 m
+18 -> 33 -> 40 -> 41
+沙河-Distanece: 1057.00 m
+1 -> 3 -> 4 -> 5 -> 28 -> 27 -> 67 -> 105 -> 66 -> 63 -> 68 -> 74 -> 86 -> 87 -> 88
+2022-3-1-19-19-20    User: 2    content: 西土城-Distanece: 689.00 m
+48 -> 46 -> 43 -> 39 -> 42 -> 40 -> 41
+沙河-Distanece: 733.80 m
+1 -> 3 -> 4 -> 5 -> 28 -> 27 -> 67 -> 105 -> 66 -> 63 -> 68
+2022-3-2-4-10-10    User: 2    content: 西土城-Distanece: 122.00 m
+6 -> 5 -> 4
+2022-3-2-6-3-0    User: 2    content: 西土城-Distanece: 1092.00 m
+55 -> 53 -> 52 -> 51 -> 46 -> 43 -> 39 -> 34 -> 20 -> 17 -> 16 -> 13 -> 10 -> 5 -> 4
+2022-3-2-11-38-30    User: 2    content: 西土城-Distanece: 759.00 m
+58 -> 27 -> 17 -> 16 -> 19 -> 18 -> 33 -> 40 -> 41
+沙河-Distanece: 391.40 m
+1 -> 3 -> 4 -> 5 -> 14 -> 53
+2022-3-2-15-0-50    User: 2    content: 西土城-Distanece: 759.00 m
+58 -> 27 -> 17 -> 16 -> 19 -> 18 -> 33 -> 40 -> 41
+沙河-Distanece: 391.40 m
+1 -> 3 -> 4 -> 5 -> 14 -> 53
+2022-3-2-17-36-50    User: 2    content: 西土城-Distanece: 759.00 m
+58 -> 27 -> 17 -> 16 -> 19 -> 18 -> 33 -> 40 -> 41
+沙河-Distanece: 391.40 m
+1 -> 3 -> 4 -> 5 -> 14 -> 53
+沙河-Distanece: 635.10 m
+58 -> 59 -> 42 -> 57 -> 79 -> 39 -> 55 -> 78 -> 96 -> 85 -> 94 -> 73 -> 74 -> 68
+2022-3-2-21-4-0    User: 2    content: 西土城-Distanece: 759.00 m
+58 -> 27 -> 17 -> 16 -> 19 -> 18 -> 33 -> 40 -> 41
+沙河-Distanece: 391.40 m
+1 -> 3 -> 4 -> 5 -> 14 -> 53
+沙河-Distanece: 635.10 m
+58 -> 59 -> 42 -> 57 -> 79 -> 39 -> 55 -> 78 -> 96 -> 85 -> 94 -> 73 -> 74 -> 68
+沙河-Distanece: 466.00 m
+53 -> 14 -> 5 -> 28 -> 27 -> 67 -> 105 -> 70
+2022-3-2-21-51-40    User: 2    content: 西土城-Distanece: 759.00 m
+58 -> 27 -> 17 -> 16 -> 19 -> 18 -> 33 -> 40 -> 41
+沙河-Distanece: 391.40 m
+1 -> 3 -> 4 -> 5 -> 14 -> 53
+沙河-Distanece: 635.10 m
+58 -> 59 -> 42 -> 57 -> 79 -> 39 -> 55 -> 78 -> 96 -> 85 -> 94 -> 73 -> 74 -> 68
+沙河-Distanece: 466.00 m
+53 -> 14 -> 5 -> 28 -> 27 -> 67 -> 105 -> 70
+沙河-Distanece: 0.00 m
+70
+2022-3-3-0-29-50    User: 2    content: 西土城-Distanece: 759.00 m
+58 -> 27 -> 17 -> 16 -> 19 -> 18 -> 33 -> 40 -> 41
+沙河-Distanece: 391.40 m
+1 -> 3 -> 4 -> 5 -> 14 -> 53
+沙河-Distanece: 635.10 m
+58 -> 59 -> 42 -> 57 -> 79 -> 39 -> 55 -> 78 -> 96 -> 85 -> 94 -> 73 -> 74 -> 68
+沙河-Distanece: 466.00 m
+53 -> 14 -> 5 -> 28 -> 27 -> 67 -> 105 -> 70
+沙河-Distanece: 0.00 m
+70
+沙河-Distanece: 186.00 m
+53 -> 14 -> 5 -> 6
+26607952-0-26607952-26607952-0-26607952    User: 0    content: 该用户注册成功
+26607952-0-26607952-26607952-0-26607952    User: 0    content: 该用户注册成功
+2022-3-3-2-58-50    User: 4    content: 登陆成功
+2022-3-3-3-19-0    User: 4    content: 
+2022-3-3-10-45-30    User: 4    content: 添加必修课：
+insert into lesson_compulsory(number, name, teacher, isShaHe, location, dayOfWeek, c_index, qun, extra, class) values(10,'301星期一',4,1,25,1,1,'无','201','2020211301')
+2022-3-3-14-15-30    User: 4    content: 添加必修课：
+insert into lesson_compulsory(number, name, teacher, isShaHe, location, dayOfWeek, c_index, qun, extra, class) values(11,'302星期二',4,1,25,2,1,'无','202','2020211302')
+2022-3-3-15-56-0    User: 4    content: 添加必修课：
+insert into lesson_compulsory(number, name, teacher, isShaHe, location, dayOfWeek, c_index, qun, extra, class) values(12,'303星期三',4,1,25,3,1,'无','203','2020211303')
+2022-3-3-18-11-40    User: 4    content: 添加必修课：
+insert into lesson_compulsory(number, name, teacher, isShaHe, location, dayOfWeek, c_index, qun, extra, class) values(13,'304星期四',4,1,25,4,1,'无','204','2020211304')
+2022-3-3-18-45-20    User: 4    content: 
+2022-3-3-19-41-50    User: 4    content: 
+2022-3-3-3-4-20    User: 4    content: 
+2022-3-3-3-4-40    User: 4    content: 打开程序时进行回档操作
+2022-3-3-3-27-20    User: 4    content: 
+2022-3-3-2-58-50    User: 2    content: 登陆成功
+2022-3-3-3-7-20    User: 2    content: 
+2022-3-3-3-29-0    User: 2    content: 
+2022-3-3-14-17-30    User: 2    content: 个人活动查询
+2022-3-4-2-30-20    User: 2    content: 
+2022-3-4-5-36-30    User: 4    content: 登陆成功
+2022-3-4-5-42-30    User: 4    content: 
+2022-3-4-11-13-10    User: 4    content: 
+2022-3-4-20-23-30    User: 4    content: 添加课程考试：insert into lesson_test(name, lesson_number, isSelect, isShaHe, location, year, month, day, time, extra) values('6.15验收',1,1,1,25,2022,6,15,'09:00:00','205')
+2022-3-4-20-58-30    User: 4    content: 
+2022-3-4-23-30-40    User: 4    content: 
+2022-3-5-5-6-20    User: 4    content: 
+2022-3-5-5-6-40    User: 4    content: 打开程序时进行回档操作
+2022-3-6-4-58-10    User: 4    content: 登陆成功
+2022-3-6-5-5-50    User: 4    content: 
+2022-3-6-6-38-30    User: 5    content: 登陆成功
+2022-3-6-6-43-50    User: 5    content: 
+2022-3-6-10-42-0    User: 5    content: 添加必修课：
+insert into lesson_compulsory(number, name, teacher, isShaHe, location, dayOfWeek, c_index, qun, extra, class) values(14,'计算机网络课程设计',5,1,25,2,4,'233','201','2020211305')
+2022-3-6-11-27-40    User: 5    content: 
+2022-3-6-12-22-20    User: 2    content: 登陆成功
+2022-3-6-12-29-30    User: 2    content: 
+2022-3-6-12-54-0    User: 2    content: 
+2022-3-6-14-6-10    User: 2    content: 
+2022-3-6-14-11-30    User: 2    content: 
+2022-3-6-14-22-50    User: 2    content: 
+2022-3-6-15-53-0    User: 2    content: 添加课程：
+insert into 2_select(number, name, teacher, isShaHe, location, dayOfWeek, c_index, qun) values(3,'C++',8,1,25,5,2,'906461954')
+2022-3-6-17-17-30    User: 2    content: 
+2022-3-6-17-28-20    User: 2    content: 删除课程：
+C++
+2022-3-7-1-25-30    User: 2    content: 
+2022-3-8-20-46-0    User: 2    content: 登陆成功
+2022-3-8-21-3-10    User: 2    content: 
+2022-3-8-22-38-50    User: 2    content: 删除课程：
+C++
+2022-3-8-23-0-50    User: 2    content: 添加课程：
+insert into 2_select(number, name, teacher, isShaHe, location, dayOfWeek, c_index, qun, extra) values(3,'C++',8,1,25,5,2,'906461954'')
+2022-3-8-23-16-30    User: 2    content: 
+2022-3-9-0-10-50    User: 2    content: 添加课程：
+insert into 2_select(number, name, teacher, isShaHe, location, dayOfWeek, c_index, qun, extra) values(3,'C++',8,1,25,5,2,'906461954'')
+2022-3-9-8-50-20    User: 2    content: 
+2022-3-9-8-50-30    User: 2    content: 打开程序时进行回档操作
+2022-3-9-9-27-10    User: 2    content: 添加课程：
+insert into 2_select(number, name, teacher, isShaHe, location, dayOfWeek, c_index, qun, extra) values(3,'C++',8,1,25,5,2,'906461954','')
+2022-3-9-15-37-30    User: 2    content: 
+2022-3-9-15-37-50    User: 2    content: 打开程序时进行回档操作
+2022-3-9-16-10-10    User: 2    content: 添加课程：
+insert into 2_select(number, name, teacher, isShaHe, location, dayOfWeek, c_index, qun, extra) values(3,'C++',8,1,25,5,2,'906461954','205')
+2022-3-9-17-15-30    User: 2    content: 
+2022-3-9-17-24-50    User: 2    content: 删除课程：
+C++
+2022-3-9-18-16-40    User: 2    content: 登陆成功
+2022-3-9-18-30-20    User: 2    content: 
+2022-3-11-7-20-10    User: 2    content: 
+2022-3-13-13-56-50    User: 4    content: 登陆成功
+2022-3-14-15-22-50    User: 2    content: 登陆成功
+2022-3-14-18-9-40    User: 2    content: 
+2022-3-14-18-34-30    User: 2    content: find path for 计算机网络
+2022-3-14-22-23-0    User: 2    content: find path for 计算机网络
+2022-3-14-22-23-30    User: 2    content: 导航课程：计算机网络
+沙河-Time: 4.84 min
+45 -> 46 -> 56 -> 55 -> 77 -> 78 -> 96 -> 85 -> 94
+2022-3-15-4-59-40    User: 2    content: 西土城-Time: 4.00 min
+58 -> 27 -> 17 -> 16 -> 19 -> 18 -> 33 -> 40 -> 41
+沙河-Time: 7.24 min
+1 -> 3 -> 4 -> 5 -> 14 -> 53
+2022-3-15-8-15-0    User: 2    content: 西土城-Time: 4.00 min
+58 -> 27 -> 17 -> 16 -> 19 -> 18 -> 33 -> 40 -> 41
+沙河-Time: 7.24 min
+1 -> 3 -> 4 -> 5 -> 14 -> 53
+沙河-Time: 2.00 min
+53 -> 14 -> 5 -> 6
+2022-3-15-10-27-0    User: 2    content: find path for 数据结构
+2022-3-15-10-31-50    User: 2    content: 导航课程：数据结构
+沙河-Time: 5.00 min
+6 -> 5 -> 4 -> 3 -> 1
+乘坐班车：11h
+西土城-Time: 5.00 min
+41 -> 40 -> 33 -> 34 -> 35 -> 36
+2022-3-15-14-8-30    User: 2    content: 
+2022-3-15-17-33-50    User: 2    content: find path for 数据结构课程设计
+2022-3-16-12-39-50    User: 2    content: 
+2022-3-16-14-15-0    User: 2    content: 
+2022-3-16-15-29-20    User: 2    content: 计算
+2022-3-17-13-55-30    User: 2    content: 添加课程：
+insert into 2_select(number, name, teacher, isShaHe, location, dayOfWeek, c_index, qun, extra) values(3,'C++',8,1,25,5,2,'906461954','205')
+2022-3-17-14-39-50    User: 2    content: 
+2022-3-17-14-52-10    User: 2    content: 删除课程：
+C++
+2022-3-17-16-55-20    User: 2    content: 数字
+2022-3-17-18-54-30    User: 2    content: 个人活动查询
+2022-3-17-19-49-40    User: 2    content: 集体活动查询
+2022-3-17-19-58-20    User: 2    content: 个人活动查询
+2022-3-17-21-45-40    User: 2    content: 集体活动查询
+2022-3-17-22-34-10    User: 2    content: 查询字段筛选
+2022-3-17-22-55-0    User: 2    content: 个人活动查询
+2022-3-17-23-12-40    User: 2    content: 查询字段筛选
+2022-3-17-23-43-30    User: 2    content: 查询字段筛选
+2022-3-18-0-9-30    User: 2    content: 个人活动查询
+2022-3-18-0-38-50    User: 2    content: 查询字段筛选
+2022-3-18-1-56-0    User: 2    content: 个人活动查询
+2022-3-18-2-21-20    User: 2    content: 集体活动查询
+2022-3-18-2-43-50    User: 2    content: 集体活动查询
+2022-3-18-9-35-40    User: 2    content: 个人活动查询
+2022-3-18-17-31-50    User: 2    content: 添加闹钟：
+insert into 2_clock_dayly(name, hour)values('',)
+2022-3-18-21-21-40    User: 4    content: 登陆成功
+2022-3-18-23-12-20    User: 4    content: 
+2022-3-19-10-15-30    User: 4    content: 添加必修课：
+insert into lesson_compulsory(number, name, teacher, isShaHe, location, dayOfWeek, c_index, qun, extra, class) values(15,'test615',4,0,7,6,1,'233','102','2020211305')
+2022-3-19-10-37-30    User: 4    content: 
+2022-3-19-13-39-0    User: 4    content: 修改课程：test6156-1 必修
+2022-3-19-13-55-0    User: 4    content: 
+2022-3-19-16-31-20    User: 4    content: 添加课程作业：insert into lesson_task(number, lesson_number, isSelect, name, year, month, day, hour, all_number, commit_number) values(10,1,1,'今天验收615',2022,6,15,14,-1,0)
+2022-3-19-20-44-10    User: 4    content: 添加课程考试：insert into lesson_test(name, lesson_number, isSelect, isShaHe, location, year, month, day, time, extra) values('test',15,0,0,6,2022,6,15,'00:00:00','102')
+2022-3-19-22-14-30    User: 4    content: 
+2022-3-19-22-14-40    User: 4    content: 登陆成功
+2022-3-19-22-40-50    User: 2    content: 登陆成功
+2022-3-19-22-46-0    User: 2    content: 
+2022-3-19-23-29-30    User: 2    content: 提交作业：2_今天验收615
+2022-3-20-9-1-40    User: 2    content: 
+2022-3-20-9-2-0    User: 2    content: 打开程序时进行回档操作
+2022-3-20-9-50-30    User: 2    content: 打开程序时进行回档操作
+2022-3-20-11-0-30    User: 2    content: 该用户注册成功
+2022-3-20-11-4-10    User: 2    content: 打开程序时进行回档操作
+2022-3-20-12-8-30    User: 4    content: 登陆成功
+2022-3-20-12-14-0    User: 4    content: 
+2022-3-20-12-58-20    User: 2    content: 登陆成功
+2022-3-20-13-21-20    User: 2    content: 
